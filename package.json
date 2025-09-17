@@ -1,0 +1,25 @@
+{
+  "name": "newslatter-signup",
+  "version": "0.0.1",
+  "description": "criação de um servidor para Newslatter estudo de back-end com javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rick-Henrique7/Newslatter-Signup.git"
+  },
+  "author": "Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rick-Henrique7/Newslatter-Signup/issues"
+  },
+  "homepage": "https://github.com/Rick-Henrique7/Newslatter-Signup#readme",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.80",
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  }
+}
