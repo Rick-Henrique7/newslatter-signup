@@ -3,6 +3,19 @@
 Este é um projeto **iniciante** de backend em Node.js para cadastro de emails em uma lista do Mailchimp, utilizando Express. O objetivo é praticar conceitos básicos de servidores, rotas, integração com API externa e manipulação de formulários.
 
 ---
+## Apresentação inicial
+
+<img width="3713" height="1761" alt="image" src="https://github.com/user-attachments/assets/3258f92d-43b0-4852-8595-273f6baba304" />
+
+## Caso email recusado
+
+<img width="3711" height="1752" alt="image" src="https://github.com/user-attachments/assets/93165c26-0e27-4fb8-8114-d43b2ebe3c09" />
+
+## Caso email aceito
+
+<img width="3717" height="1764" alt="image" src="https://github.com/user-attachments/assets/3f3eb523-eeee-460a-8fa0-7be8e322ab1b" />
+
+
 
 ## Tecnologias Utilizadas
 
